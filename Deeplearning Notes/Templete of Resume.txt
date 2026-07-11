@@ -1,0 +1,46 @@
+✅ PROFESSIONAL RESUME TEMPLATE (ATS-FRIENDLY)
+
+YOUR NAME
+📞 Phone: +91-XXXXXXXXXX
+📧 Email: yourname@email.com
+
+🔗 LinkedIn: linkedin.com/in/yourname
+💻 GitHub/Portfolio: github.com/yourname
+
+🎯 CAREER OBJECTIVE
+
+Aspiring AI enthusiast with a strong foundation in machine learning and Python, eager to build intelligent solutions and solve real-world problems.
+
+🎓 EDUCATION
+
+Your Degree (B.Tech / B.Sc / MCA etc.)
+College Name, City
+Year of Graduation
+CGPA/Percentage: XX%
+
+💻 TECHNICAL SKILLS
+Programming: Python, SQL
+AI/ML: Machine Learning, Deep Learning, NLP
+Libraries/Tools: NumPy, Pandas, Scikit-learn, TensorFlow/Keras
+Other Tools: Excel, Git, Jupyter Notebook
+🚀 PROJECTS
+
+Project Title 1 (e.g., Car Detection using Deep Learning)
+
+Built a model using CNN to detect objects in images
+Achieved XX% accuracy on test dataset
+Used Python, TensorFlow, OpenCV
+
+Project Title 2 (e.g., NLP Text Classification)
+
+Developed a text classification model using TF-IDF and ML algorithms
+Improved prediction accuracy by XX%
+Tools: Python, Scikit-learn
+🏆 CERTIFICATIONS
+Machine Learning Certification – (Coursera / Udemy / etc.)
+Deep Learning / NLP Course – (Platform Name)
+🧠 SOFT SKILLS
+Problem-solving
+Communication
+Teamwork
+Time management
